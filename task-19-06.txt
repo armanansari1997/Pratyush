@@ -1,0 +1,39 @@
+=> Create a Folder/Directory in your local system
+=> Open Created Folder in VS code
+=> Make the created folder as git repository using GIT command
+=> Create Virtual environment
+=> Create Django Project in the created folder
+=> Upload project in the GitHub using GIT commands only
+=> Create an account in PythonAnywhere
+=> Deploy your Project in PythonAnywhere
+
+
+=========================================================
+1) CRUD Project Function Based View with Model Form in Django (Hindi)
+
+=> https://www.youtube.com/watch?v=OPc_oMgjhpM&t=2913s
+=> 
+
+2) CRUD mastery with Django | Build a CRM application | Django projects
+
+=>https://www.youtube.com/watch?v=pqWyUAT38e0&list=PLXo6OWLjr5-ul_5793_tIR4AzhPQpPqlA&index=1
+=> https://github.com/cloud-with-django/Django-CRM-mastery-app-Project-1-YT
+
+3) Create a Dynamic Hotel Search App in Django | Learn How to filter data in Django | Django projects
+ 
+=> https://www.youtube.com/watch?v=BIvv6DJXXy0&t=2969s
+=> https://github.com/boxabhi/django-hotels
+
+4) Blog application in Django | Create a complete blog Application Django | Learn Crud in Django
+
+=> https://www.youtube.com/watch?v=f-MPC83OYlQ&t=5572s
+=> https://github.com/boxabhi/youtube_django_blog_application
+
+============================================================================
+5) Django todo Web App 
+
+=> https://github.com/shreys7/django-todo
+
+
+
+
